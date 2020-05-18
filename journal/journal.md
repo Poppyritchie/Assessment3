@@ -18,6 +18,13 @@
 <!--- Include information about why this project is related to yours. --->
 This project is related to mine because at the beginning this was one of my biggest inspirations and i wanted to create something similar. I couldn’t copy a project that already exsits though so it just gave me an idea of what my design intent will be and the area that I’m interested in. I was going to include sound in my final project too but it is way out of my depth to create. It is a much larger project than what I’m creating but it still involves LED light which relates to my project.
 
+### Slap It: Cheeky Interactive Lights ###
+
+ https://design-milk.com/slap-cheeky-interactive-lights-joseph-begley/
+
+ ![Image](Slapit.jpg)
+
+ This project is related to mine because again it includes LED lights and also requires touch to set off. The different coloured LED's is also related to mine as I would like to include different colours depending on touch or movement. I think this project is fun and looks enjoyable, I would like to include the same aspects in my final project. 
 
 <!--- Repeat code above for a total of 6 related projects --->
 
