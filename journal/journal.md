@@ -10,7 +10,7 @@
 ### Interactive cloud ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](Interactivecloud)
+![Image](Interactivecloud.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Name of related project](https://www.youtube.com/watch?v=UQSZQZIuIk4)
@@ -90,7 +90,7 @@ There will likely by a dozen or so images of the project under construction. The
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. ---> 
-![Image](screenshot)
+![Image](screenshot.png)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
