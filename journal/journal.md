@@ -26,16 +26,53 @@ This project is related to mine because at the beginning this was one of my bigg
 
  This project is related to mine because again it includes LED lights and also requires touch to set off. The different coloured LED's is also related to mine as I would like to include different colours depending on touch or movement. I think this project is fun and looks enjoyable, I would like to include the same aspects in my final project. 
 
+
+### CLOUD ###
+
+ https://www.thisiscolossal.com/2012/09/an-interactive-cloud-made-of-6000-lightbulbs/
+
+ ![Image](cloud.jpg)
+ 
+ The Cloud is a large scale project made with about 6,000 light bulbs that people can pull the chains causing the cloud to flicker. This project relates to mine as it has a similar design intent. Which is to create light in the dark at night but still looks pretty during the day.
+
+### Notional Field ###
+
+https://cuppetellimendoza.com/nervous-structure-field/
+
+![Image](Field.jpg)
+
+This project is influenced by a viewer’s movements by a built in video camera. It again involves light like my project but it is a much bigger scale and function very differently. I especially like the fluent movement of the elastic cords that act like soft rope.
+
+### Infinity dress ###
+
+https://snobette.com/2019/07/iris-van-herpen-infinity-dress-haute-couture-2019/
+
+![Image](Infinitydress.jpg)
+
+This is a runway dress whose moving part minimck the continual motion machine. The only relation this project has to mine is the material such a light but other than the project is very advanced but very inspirational. I added this into my related projects because i enjoy the visuals and th concepts, it is very inspiring for people wanting to work with lights or wearable installation.
+
+### Breath of light ###
+
+ https://www.youtube.com/watch?v=CfVTQ6jrqg0
+
+![Image](Breathoflight.jpg)
+
+This project is related to mine because it involves lights and the aesthetic is beautiful which inspires me to create a final project that is also beautiful to look at. The lights turn on depending on the sensor which is kind of similar to mine where the lights depend on a particular variable.
+
 <!--- Repeat code above for a total of 6 related projects --->
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 
-### Making compass ### https://makecode.microbit.org/projects/compass This page from Mircowas useful for my project as it help me wrap my head around the basics of compass coding which I have to include in my project.
+Making compass 
+
+https://makecode.microbit.org/projects/compass This page from Mircowas useful for my project as it help me wrap my head around the basics of compass coding which I have to include in my project.
 
 https://www.youtube.com/watch?v=tzK1AKUiGy0 I found this video useful in terms of the compass coding. The tutorial explains all the steps and makes it easy to follow.
 
-### Connecting LED lights ### https://www.youtube.com/watch?v=yQ2-yVXFMeE I watched many videos similar to this one to help myself learn more about LED circut. All the videos that i watched are similar but some more than others relate to my project more. Although in my final project I will probably use crocodile clips instead of the breadboard but these videos still help me get an idea of the technical side.
+Connecting LED lights
+
+https://www.youtube.com/watch?v=yQ2-yVXFMeE I watched many videos similar to this one to help myself learn more about LED circut. All the videos that i watched are similar but some more than others relate to my project more. Although in my final project I will probably use crocodile clips instead of the breadboard but these videos still help me get an idea of the technical side.
 
 https://www.youtube.com/watch?v=OlTcVX4W0yk Another connecting LED to breadboard youtube video.
 
@@ -79,6 +116,17 @@ The crater lamp is also suitable for a side table that reflects a beautiful patt
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+Colourful night light 
+
+My final design concept is a interactive night light that is a cube shape. It has four different LED colours that is connected to four different sides of the cube, depending on which side is facing up either green, yellow, orange or red will appear. It is dependent on a compass inside of the cube, each north, east, south and west have a different colour. This means the object will be a certain degree to make the colours change. The cube will be transparent enough for the LED to shine through but it will also hide the materials and tech inside of the cube. The light will be a size that can comfortably sit in one hand and can sit on the side table.
+
+ Materials:
+ - LED lights (Green, yellow, red, orange)
+ - Mircobit 
+ - Crocodile clips 
+ - Acrylic or material for the cube
+ - Tape
+
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
@@ -101,7 +149,9 @@ There will likely by a dozen or so images of the project under construction. The
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+ In relation to the Double Diamond design through the planning phase I spent alot of time finding secondary research and brainstorming to bring together more ideas and possiblities for my project. The time spent on research was helpful to then focus on the define and development phase of the design process. Planning my materials to use was easier from my related projects I found, it gave me an idea of what works and what doesn't before testing it myself. The technical side of my project had a lot of trial and error, first I tried to set up the bread board with all the LED's which didn't work but then found it easier handing one LED at a time to then gradually work with all four LED's. It was the same situtaion with the coding, I keep trying to figure out the coding using all the directions and LED but I think I need to focus on one LED and working my way up. When following tutorials and videos it was easier to put the coding and bread board together and then adjusting it to suit my project. In my final project I will use crocodile clips instead of a breadboard because it is more suitable for concept. 
+ 
+ 
 
 ## Reflection ##
 
