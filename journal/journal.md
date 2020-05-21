@@ -144,6 +144,22 @@ Use subheadings to structure this information. See https://guides.github.com/fea
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
+![Image](sketch.jpg)
+
+ This is a rough sketch of the night light. 
+
+ ![Image](Coding.HEIC)
+
+ This is a screenshot of my coding experimentation. Although I haven't got as far as I wanted with the technical side, I played around with coding and the bread board just to experiment what does and doesn't work. I haven't yet figured out the correct coding but with more research and materials for testing I will soon figure it out. This is my compass coding I've been working with and trying to figure out how to make the direction correspond with the LED. It still needs work and more test but it is a good starting point.
+
+ ![Image](Breadboard1.jpg)
+
+ ![Image](Breadboard2.jpg)
+
+ This is the bread board and experimenting with one LED light first. I had to look back on pervious activities to get an idea of how it comes together. Again the technical side needs improvement and more development as I haven't yet figured it out completely.
+ 
+ ![Image](behind.JPG)
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. ---> 
@@ -152,6 +168,8 @@ There will likely by a dozen or so images of the project under construction. The
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
  In relation to the Double Diamond design through the planning phase I spent alot of time finding secondary research and brainstorming to bring together more ideas and possiblities for my project. The time spent on research was helpful to then focus on the define and development phase of the design process. Planning my materials to use was easier from my related projects I found, it gave me an idea of what works and what doesn't before testing it myself. The technical side of my project had a lot of trial and error, first I tried to set up the bread board with all the LED's which didn't work but then found it easier handing one LED at a time to then gradually work with all four LED's. It was the same situtaion with the coding, I keep trying to figure out the coding using all the directions and LED but I think I need to focus on one LED and working my way up. When following tutorials and videos it was easier to put the coding and bread board together and then adjusting it to suit my project. In my final project I will use crocodile clips instead of a breadboard because it is more suitable for concept. 
+ 
+When i started using crocodile clips it took me a while to adjust and fit all the cords inside the box. After playing with it for a while it was better to use only 3 LED instead of 4 to reduce clutter and problems occuring. Also instead of connecting all the LED's to the GND on the mircobit it was better to connect them together with only one LED connected to the micro bit.  
  
  
 
