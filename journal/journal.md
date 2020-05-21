@@ -160,7 +160,7 @@ There will likely by a dozen or so images of the project under construction. The
  
  ![Image](Greenlight.jpg)
  ![Image](Redlight.jpg)
- ![Image](microbit.jpg)
+ ![Image](Microbit.jpg)
  
  Moving away from the breadboard and using croccdile clips.
  
