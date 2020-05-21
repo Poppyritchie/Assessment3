@@ -15,7 +15,7 @@ The image should be inserted with code like that below where you replace the fil
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
-The colourful night light provides 3 different colour lights that light up a dark room. It will change colour depending on it's positioning as the side is facing the front will light , it will switch between red, green and orange. It is suitable for any age and gender as it has a diverse style with a simple marble look. The colours are also used as very simple which therefore makes it suitabe for male and female bedroom or area.
+The colourful night light projects 3 different colour lights that will light up a dark room. It changes colour depending on the cubes position, this mean the side that is facing the front will light up, it will switch between red, green and orange. It is suitable for any age and gender as it has a modest style with a simple marble look. The LED colours that are used are also very simple which makes it suitabe for a male and female bedroom or area. 
 
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
