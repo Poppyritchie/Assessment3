@@ -10,7 +10,7 @@
 ### Interactive cloud ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](Interactivecloud.jpg)
+![Image](Interactiveclouds.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Name of related project](https://www.youtube.com/watch?v=UQSZQZIuIk4)
@@ -33,7 +33,7 @@ This project is related to mine because at the beginning this was one of my bigg
 
  ![Image](cloud.jpg)
  
- The Cloud is a large scale project made with about 6,000 light bulbs that people can pull the chains causing the cloud to flicker. This project relates to mine as it has a similar design intent. Which is to create light in the dark at night but still looks pretty during the day.
+ The Cloud is a large scale project made with about 6,000 light bulbs that people can pull the chains causing the cloud to flicker. This project relates to mine as it has a similar design intent, which is to create light in the dark at night but still looks pretty during the day. It of course requires human interaction to make the project perform which is the same as my project.
 
 ### Notional Field ###
 
@@ -69,6 +69,8 @@ Making compass
 https://makecode.microbit.org/projects/compass This page from Mircowas useful for my project as it help me wrap my head around the basics of compass coding which I have to include in my project.
 
 https://www.youtube.com/watch?v=tzK1AKUiGy0 I found this video useful in terms of the compass coding. The tutorial explains all the steps and makes it easy to follow.
+
+https://www.youtube.com/watch?v=4qckORHXuJU
 
 Connecting LED lights
 
@@ -159,6 +161,14 @@ There will likely by a dozen or so images of the project under construction. The
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
+The related project that inspired me and was most helpful was the Interactive clouds, when I found this project I knew I wanted to work with lights because I loved the look and context behind it. It was a starting point for my entire project and made me look deeper into the technical side, possibilities and aesthetics of light projects. Once I figured out my design intent from related projects, then videos on YouTube become the biggest source of information and helped me develop the technical skills and coding. Other than related projects and YouTube videos being a major help in the success of my project, the online dashboard also provided me extra help and guidance when I need assist. 
+
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
+As much as my project has related project with similar context and materials, my project still remains with parts that are dissimilar and novel. The novel parts of my project would first be the light depending on a compass, I researched many times using key words but never came across any lamp that required a compass. This particular technical idea is very unusual and different to lamps or project that already exist.
+Another part of my project that I feel is novel is the design of the light, the marble wrap and the cube shape create a modern and clean look. This design isn't usually compatible or seen when it comes to a bed side table, especially with a red, orange and green light reflecting. Light projects or lamps project a solid cold white light so even including the different colours makes this project novel.  
+
+
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
+This project can be extended and explored in many ways from scale, context, colour, shape, etc. Although one interesting extension of this project could be on a larger scale and instead of the lights depending on the angle of the object, it could depend on movement through a sensor. It would be enlarged to a adults height so when a person moves around the object the light changes colour to the side that the person is infront of. This is one way to make my project more advanced and gives a different context as more people can explore it and interaction would be funner. 
