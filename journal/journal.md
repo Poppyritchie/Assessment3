@@ -158,8 +158,16 @@ There will likely by a dozen or so images of the project under construction. The
 
  This is the bread board and experimenting with one LED light first. I had to look back on pervious activities to get an idea of how it comes together. Again the technical side needs improvement and more development as I haven't yet figured it out completely.
  
+ ![Image](Greenlight.jpg)
+ ![Image](Redlight.jpg)
+ ![Image](microbit.jpg)
+ 
+ Moving away from the breadboard and using croccdile clips.
+ 
  ![Image](behind.JPG)
-
+ 
+ This is a shot of inside the cube
+ 
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. ---> 
